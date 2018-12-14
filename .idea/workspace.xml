@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
+    <ignored path="JavaRushTasks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__5_.ic" NAME="Solution (5) Coverage Results" MODIFIED="1537466081643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task15.task1515.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1159222739">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="54" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="3" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="info" value="1" />
+          <entry key="java" value="1756" />
+          <entry key="jrtc" value="839" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="8" />
+          <entry key="Валидация" value="1310" />
+          <entry key="Компиляция" value="41" />
+          <entry key="Стиль Кода" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="1756" />
+          <entry key="PLAIN_TEXT" value="848" />
+          <entry key="Properties" value="1" />
+          <entry key="UNKNOWN" value="1359" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="53133" />
+          <entry key="txt" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="53133" />
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaRushTasks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HashMapReflectionHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/HashMapReflectionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AmigoSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Валидация" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+          <provider selected="true" editor-type-id="EditorTypeId" />
+        </entry>
+      </file>
+      <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc">
+          <provider selected="true" editor-type-id="EditorTypeId" />
+        </entry>
+      </file>
+      <file leaf-file-name="Компиляция" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Компиляция">
+          <provider selected="true" editor-type-id="EditorTypeId" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>internship</find>
+      <find>getCountryPhoneCode</find>
+      <find>getStudentWithAverageGrade</find>
+      <find>selectedTabChanged()</find>
+      <find>add</find>
+      <find>map</find>
+      <find>saveState</find>
+      <find>isExist</find>
+      <find>leftChild</find>
+      <find>getAllItems</find>
+      <find>moveAllItems</find>
+      <find>getFilledList</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Sky\Documents\JavaRushPl\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task31\task3110</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/giflib-hibernate" value="2933508518815" />
+        <entry key="D:/todotoday" value="1466755205829" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3204/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3211/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/CustomInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3201/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3210/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3207/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3208/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3212/ServiceLocator.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/FigureFactory.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Figure.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3301/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3302/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3303/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3304/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3305/Parking.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3305/Auto.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3311/RealBean.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3312/Zoo.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3313/Event.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3306/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3306/XmlRootElement.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3306/XmlType.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3307/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3308/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3308/Shop.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Canvas.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Rocket.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3403/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3411/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3404/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3405/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3406/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/SoftCache.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3407/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Cache.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/log4j.properties" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/HashMapReflectionHelper.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="1" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="1" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="1.JavaSyntax" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="1" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="1.JavaSyntax" type="616d4139:PackageViewModuleNode" />
+              <item name="com.javarush.task" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="1" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="1.JavaSyntax" type="616d4139:PackageViewModuleNode" />
+              <item name="com.javarush.task" type="1f31426a:PackageElementNode" />
+              <item name="task04" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="1" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="1.JavaSyntax" type="616d4139:PackageViewModuleNode" />
+              <item name="com.javarush.task" type="1f31426a:PackageElementNode" />
+              <item name="task04" type="1f31426a:PackageElementNode" />
+              <item name="task0442" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="3" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="4" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="4" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="4.JavaCollections" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="4" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="4.JavaCollections" type="616d4139:PackageViewModuleNode" />
+              <item name="com.javarush.task" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="58d84e3e:PackageViewProjectNode" />
+              <item name="4" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="4.JavaCollections" type="616d4139:PackageViewModuleNode" />
+              <item name="com.javarush.task" type="1f31426a:PackageElementNode" />
+              <item name="task37.task3707" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+              <item name="JavaMultithreading" type="cbb8eebc:String" user="JavaMultithreading" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+              <item name="JavaMultithreading" type="cbb8eebc:String" user="JavaMultithreading" />
+              <item name="3.JavaMultithreading" type="cbb8eebc:String" user="3.JavaMultithreading" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+              <item name="JavaMultithreading" type="cbb8eebc:String" user="JavaMultithreading" />
+              <item name="3.JavaMultithreading" type="cbb8eebc:String" user="3.JavaMultithreading" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+              <item name="JavaMultithreading" type="cbb8eebc:String" user="JavaMultithreading" />
+              <item name="3.JavaMultithreading" type="cbb8eebc:String" user="3.JavaMultithreading" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/javarush/task" type="cbb8eebc:String" user="com/javarush/task" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+              <item name="JavaMultithreading" type="cbb8eebc:String" user="JavaMultithreading" />
+              <item name="3.JavaMultithreading" type="cbb8eebc:String" user="3.JavaMultithreading" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/javarush/task" type="cbb8eebc:String" user="com/javarush/task" />
+              <item name="task35/task3513" type="cbb8eebc:String" user="task35/task3513" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3" type="cbb8eebc:String" user="3" />
+              <item name="JavaMultithreading" type="cbb8eebc:String" user="JavaMultithreading" />
+              <item name="3.JavaMultithreading" type="cbb8eebc:String" user="3.JavaMultithreading" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/javarush/task" type="cbb8eebc:String" user="com/javarush/task" />
+              <item name="task36/task3608" type="cbb8eebc:String" user="task36/task3608" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="4" type="cbb8eebc:String" user="4" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="4" type="cbb8eebc:String" user="4" />
+              <item name="JavaCollections" type="cbb8eebc:String" user="JavaCollections" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="4" type="cbb8eebc:String" user="4" />
+              <item name="JavaCollections" type="cbb8eebc:String" user="JavaCollections" />
+              <item name="4.JavaCollections" type="cbb8eebc:String" user="4.JavaCollections" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="4" type="cbb8eebc:String" user="4" />
+              <item name="JavaCollections" type="cbb8eebc:String" user="JavaCollections" />
+              <item name="4.JavaCollections" type="cbb8eebc:String" user="4.JavaCollections" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="4" type="cbb8eebc:String" user="4" />
+              <item name="JavaCollections" type="cbb8eebc:String" user="JavaCollections" />
+              <item name="4.JavaCollections" type="cbb8eebc:String" user="4.JavaCollections" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/javarush/task" type="cbb8eebc:String" user="com/javarush/task" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="4" type="cbb8eebc:String" user="4" />
+              <item name="JavaCollections" type="cbb8eebc:String" user="JavaCollections" />
+              <item name="4.JavaCollections" type="cbb8eebc:String" user="4.JavaCollections" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/javarush/task" type="cbb8eebc:String" user="com/javarush/task" />
+              <item name="task34" type="cbb8eebc:String" user="task34" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="5" type="cbb8eebc:String" user="5" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="5" type="cbb8eebc:String" user="5" />
+              <item name="OnlineInternship" type="cbb8eebc:String" user="OnlineInternship" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="5" type="cbb8eebc:String" user="5" />
+              <item name="OnlineInternship" type="cbb8eebc:String" user="OnlineInternship" />
+              <item name="5.OnlineInternship" type="cbb8eebc:String" user="5.OnlineInternship" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="5" type="cbb8eebc:String" user="5" />
+              <item name="OnlineInternship" type="cbb8eebc:String" user="OnlineInternship" />
+              <item name="5.OnlineInternship" type="cbb8eebc:String" user="5.OnlineInternship" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="javarush" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="javarush" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="javarush" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task21" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JavaMultithreading" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="javarush" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task21" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task2105" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="2.JavaCore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="2.JavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="2.JavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="2.JavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="2.JavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task13" type="462c0819:PsiDirectoryNode" />
+              <item name="task1302" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task29" type="462c0819:PsiDirectoryNode" />
+              <item name="task2901" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task29" type="462c0819:PsiDirectoryNode" />
+              <item name="task2902" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task29" type="462c0819:PsiDirectoryNode" />
+              <item name="task2903" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task29" type="462c0819:PsiDirectoryNode" />
+              <item name="task2904" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task3209" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542915060910" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javaRushTestTask-master/javaRushTestTask-master/pom.xml" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.javarush.task.task32.task3205" />
+      <recent name="com.javarush.task.task30.task3008.client" />
+      <recent name="com.javarush.task.task18.task1813" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task33.task3308" />
+      <recent name="com.javarush.task.task33.task3306" />
+      <recent name="com.javarush.task.task32.task3205" />
+      <recent name="com.javarush.task.task27.task2712.kitchen" />
+      <recent name="com.javarush.task.task30.task3003" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3407.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3411.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3411.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3404.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3404.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3405.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3405.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3406.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3406.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaRushTasks" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
+      <created>1477641354970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477641354970</updated>
+      <workItem from="1477641356271" duration="140000" />
+      <workItem from="1477661127283" duration="4000" />
+      <workItem from="1479892128348" duration="345000" />
+      <workItem from="1480667976301" duration="11000" />
+      <workItem from="1480667993737" duration="5000" />
+      <workItem from="1484838281338" duration="128000" />
+      <workItem from="1484897111171" duration="42000" />
+      <workItem from="1485161981498" duration="29000" />
+      <workItem from="1485162014696" duration="83000" />
+      <workItem from="1485177835943" duration="100000" />
+      <workItem from="1542918703128" duration="32216000" />
+      <workItem from="1543153843514" duration="67000" />
+      <workItem from="1543154038330" duration="65586000" />
+      <workItem from="1543523654810" duration="2412000" />
+      <workItem from="1543677244838" duration="24291000" />
+      <workItem from="1543946561401" duration="6040000" />
+      <workItem from="1543956093603" duration="9312000" />
+      <workItem from="1544013591074" duration="925000" />
+      <workItem from="1544015267224" duration="3701000" />
+      <workItem from="1544021220452" duration="7880000" />
+      <workItem from="1544208698955" duration="2165000" />
+      <workItem from="1544224362014" duration="14755000" />
+      <workItem from="1544475296040" duration="6154000" />
+      <workItem from="1544487765341" duration="14806000" />
+      <workItem from="1544512419000" duration="8628000" />
+      <workItem from="1544724362974" duration="1454000" />
+      <workItem from="1544766728549" duration="6614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="207893000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5033557" side_tool="true" weight="0.3324138" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" weight="0.34896553" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18554688" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.24966443" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50620687" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3048276" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Nl-Palette" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+      <window_info anchor="right" id="Properties" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827586" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0308/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0309/Solution.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0416/Solution.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0420/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0605/Solution.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0702/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0719/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1710/Solution.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java</url>
+          <line>746</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1623/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1623/Solution.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1623/Solution.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Figure.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0621/Solution.java</url>
+          <line>11</line>
+          <properties class="com.javarush.task.task06.task0621.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0622/Solution.java</url>
+          <line>10</line>
+          <properties class="com.javarush.task.task06.task0622.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0709/Solution.java</url>
+          <line>11</line>
+          <properties class="com.javarush.task.task07.task0709.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0716/Solution.java</url>
+          <line>21</line>
+          <properties class="com.javarush.task.task07.task0716.Solution" method="fix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0720/Solution.java</url>
+          <line>12</line>
+          <properties class="com.javarush.task.task07.task0720.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0717/Solution.java</url>
+          <line>11</line>
+          <properties class="com.javarush.task.task07.task0717.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task16/task1611/Solution.java</url>
+          <line>34</line>
+          <properties class="com.javarush.task.task16.task1611.Solution.Clock" method="printTikTak">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java</url>
+          <line>745</line>
+          <properties class="java.lang.Thread" method="run">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0825/Solution.java</url>
+          <line>7</line>
+          <properties field="A" class="com.javarush.task.task08.task0825.Solution" />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="array" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Rocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="75" selection-start-line="5" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="4" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4352">
+          <caret line="258" column="1" selection-start-line="4" selection-end-line="258" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/MoveEfficiency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="1" selection-start-line="2" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="75" selection-start-line="4" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3403/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3403/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3411/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3404/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3404/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3405/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3405/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#760#768#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3406/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3406/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+          <folding>
+            <element signature="e#750#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/AnyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3413/SoftCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3407/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3407/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-732">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#2218#2244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Solution.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3408/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3411/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Компиляция">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/HashMapReflectionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.slf4j:slf4j-api:1.7.23</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1.JavaSyntax</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jackson-databind-2.9.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
